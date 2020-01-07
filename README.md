@@ -1,3 +1,7 @@
+#Proje Hakkında
+
+Bu proje bir deneme projesidir. Daha sonra yapılacak olan projeye giriş ve hataların gözlenmesi için kullanılmıştır.
+
 # PymuAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
